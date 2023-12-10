@@ -1,6 +1,7 @@
 Arabic Gaming News Website
 I built a cool gaming news website in Arabic using HTML, JavaScript, and CSS. It's got all the latest updates and reviews. Check it out by clicking [Here](https://tounisiya2020.blogspot.com) for a live preview!
-Features
+<br>
+Features :
 - Dynamic and user-friendly design.
 - Latest updates and reviews in Arabic.
 - Seamless navigation for an immersive experience.
