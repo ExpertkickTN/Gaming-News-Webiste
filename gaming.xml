@@ -52,10 +52,10 @@
 <meta expr:content='data:blog.metaDescription' name='twitter:description'/>
 </b:if>
 <!-- Social Media meta tag need customer customization -->
-<meta content='Facebook App ID here' property='fb:app_id'/> 
-<meta content='Facebook Admin ID here' property='fb:admins'/> 
-<meta content='@username' name='twitter:site'/>
-<meta content='@username' name='twitter:creator'/>
+<meta content='expertkick' property='fb:app_id'/> 
+<meta content='expertkick' property='fb:admins'/> 
+<meta content='expertkick' name='twitter:site'/>
+<meta content='expertkick' name='twitter:creator'/>
 <!-- end meta tags -->
 <meta content='width=device-width, initial-scale=1, maximum-scale=1' name='viewport'/>
 
